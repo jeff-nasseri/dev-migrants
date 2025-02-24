@@ -222,6 +222,22 @@ Once the IND completes your application, you will receive an approval letter con
 
 ---
 
+# Steps After Receiving Your MVV Visa
+
+After obtaining your MVV visa from the embassy, follow these steps to ensure a smooth transition upon your arrival in the Netherlands:
+
+1. **Schedule Your IND Appointment**  
+   - Visit the [IND website](https://ind.nl/en/appointment-to-collect-document) to book an appointment with the IND.
+   - This appointment is required to collect your residence card.
+
+2. **Upon Arrival in the Netherlands**  
+   - Ensure you schedule the appointment as soon as you arrive.
+   - The IND will send you an invitation with further instructions.
+
+Completing this process is essential to obtain your residence card and finalize your stay.
+
+---
+
 ## Additional Notes
 
 - **Passport Signing:** Ensure your passport is physically signed in the designated area to match your contract and other official documents.
