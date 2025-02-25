@@ -14,5 +14,5 @@ Opening a bank account in the Netherlands can be tricky, as banks typically requ
    - The requirement for BSN is similar to Revolut. You can open the account initially without a BSN, but it may be required later for full account access.
 
 #### 3. **ING**
-   - ING, a major Dutch bank, also lets non-residents open accounts remotely, including individuals from Iran.
+   - ING, a major Dutch bank, also you can open accounts remotely, including individuals from Iran(with residence permit).
    - A BSN is required to complete the registration process. 
