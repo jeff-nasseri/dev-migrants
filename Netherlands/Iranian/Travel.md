@@ -6,7 +6,7 @@
 
 ### Work Authorization
 - **Upon Entry**: You can start working immediately if your visa includes work authorization and your employment contract has commenced.
-- **Restrictions**: You are only authorized to work for your sponsor (Employor) and WCRG B.V. Working for other companies or in other EU/Schengen countries is prohibited.
+- **Restrictions**: You are only authorized to work for your sponsor Working for other companies or in other EU/Schengen countries is prohibited.
 
 ### Duty to Carry ID
 - **Mandatory**: You must always carry your passport or official ID with you.

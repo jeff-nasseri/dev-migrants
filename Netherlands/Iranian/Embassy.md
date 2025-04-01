@@ -29,7 +29,6 @@
 3. **Possible Questions**:
    - Purpose of visit: "I am here for an MVV visa."
    - Visa type: "HSM (Highly Skilled Migrant)."
-   - Employer details: "Employor."
    - Legal representative: Provide the name of your lawyer or organization.
 
 4. **Biometric Registration**: You will need to register your biometric data (fingerprints and photo).
