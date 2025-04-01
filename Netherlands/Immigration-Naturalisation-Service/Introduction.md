@@ -12,7 +12,7 @@ Only companies listed on the IND sponsorship list can sponsor your relocation. I
 
 ## IND Process
 
-Many companies work with experts or lawyers to handle the IND application process. For example, [Everaert Advocaten](https://www.google.com/search?q=everaert+advocaten&oq=everaert+advocaten&sourceid=chrome&ie=UTF-8) can assist you with the following steps:
+Many companies work with experts or lawyers to handle the IND application process.
 
 1. **Initial Contact**: Gather your information and provide guidance on the process and visa type.
 2. **Documentation**: For HSM, refer to the [HSM Application Form](https://ind.nl/en/forms/3072.pdf).
@@ -62,11 +62,6 @@ Once your application is processed by the IND, you will receive an approval lett
 - **Issuance**: Your residence permit will be aligned with the end date of your employment contract.
 - **Pick-Up**: You will be notified by the IND when your residence permit is ready.
 - **Renewal**: Apply for a renewal at least 3 months before the expiration of your permit.
-
-### Sponsorship Details
-- **Sponsor**: Employor I B.V., seconded to WeCodeRightGenerals B.V.
-- **Employment Terms**: You are permitted to work onsite with customers while employed by Employor I B.V.
-- **Employment Termination**: If your employment ends, report it to the IND. You will need to find a new sponsor to maintain your residence permit.
 
 ### Final Steps
 - **IND Appointment**: After your arrival, schedule an appointment with the IND to complete your registration and obtain your BSN number.
